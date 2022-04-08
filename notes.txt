@@ -1,0 +1,10 @@
+
+//hek mnbalish ta nsht8l 3al git bhal 5ototwet bel tedrij
+git init
+git add
+git commit -m "message"
+git status (optional)
+
+
+//bs bdna ndif shi 3a lpage motar a3mal deyman git add w git commit
+$ git add . && git commit -m "add h2 tag " or git commit -a -m "add h2 tag" 
